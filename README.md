@@ -28,6 +28,16 @@
  * https://developer.ibm.com/connect2cloud/api-connect-learning-path/
  
 ## Devops
+
+### Kubernetes
+
+* https://www.udemy.com/kubernetes-from-a-devops-kubernetes-guru/learn/v4/content
+* https://www.udemy.com/learn-devops-the-complete-kubernetes-course/learn/v4/overview
+* https://www.udemy.com/learn-devops-advanced-kubernetes-usage/learn/v4/
+* https://www.cncf.io/certification/expert/CKA/
+* https://training.linuxfoundation.org/portal/kubernetes
+* https://github.com/cncf/curriculum/blob/master/certified_kubernetes_administrator_exam_v1.9.0.pdf
+* https://github.com/walidshaari/Kubernetes-Certified-Administrator
  
 ### Google Cloud
  
