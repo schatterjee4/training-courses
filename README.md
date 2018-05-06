@@ -38,6 +38,7 @@
 * https://training.linuxfoundation.org/portal/kubernetes
 * https://github.com/cncf/curriculum/blob/master/certified_kubernetes_administrator_exam_v1.9.0.pdf
 * https://github.com/walidshaari/Kubernetes-Certified-Administrator
+* https://www.cncf.io/certification/expert/cka/ckad/
  
 ### Google Cloud
  
